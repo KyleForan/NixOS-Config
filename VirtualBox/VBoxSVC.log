@@ -1,0 +1,39 @@
+00:00:00.000083 main     VirtualBox XPCOM Server 7.2.4 r170995 linux.amd64 (Oct 17 2025 09:07:46) release log
+00:00:00.000084 main     Log opened 2026-02-02T16:01:47.224483000Z
+00:00:00.000085 main     Build Type: release
+00:00:00.000085 main     OS Product: Linux
+00:00:00.000086 main     OS Release: 6.12.67
+00:00:00.000086 main     OS Version: #1-NixOS SMP PREEMPT_DYNAMIC Fri Jan 23 10:18:52 UTC 2026
+00:00:00.000099 main     DMI Product Name: Laptop 13 (Intel Core Ultra Series 1)
+00:00:00.000103 main     DMI Product Version: A2
+00:00:00.000105 main     Firmware type: UEFI
+00:00:00.001709 main     Secure Boot: Disabled
+00:00:00.001757 main     Host RAM: 31553MB (30.8GB) total, 29450MB (28.7GB) available
+00:00:00.001758 main     Executable: /nix/store/62f3xmxsqrizw4zf8sqfza79zkh14j9q-virtualbox-7.2.4/libexec/virtualbox/VBoxSVC
+00:00:00.001759 main     Process ID: 12620
+00:00:00.001759 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003618 main     IPC socket path: /tmp/.vbox-default-ipc/ipcd
+00:00:00.006262 DCon01   VirtualBox: object creation starts
+00:00:00.006325 DCon01   Home directory: '/home/default/.config/VirtualBox'
+00:00:00.014247 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp170s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.014822 DCon01   HostDnsMonitor: initializing
+00:00:00.014968 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.014976 DCon01   NAT: resolv.conf: nameserver fdb6:5da8:cb01:0:ca96:5aff:fe23:8068
+00:00:00.014978 DCon01   NAT: resolv.conf: ignoring "options edns0"
+00:00:00.014985 DCon01   HostDnsMonitor: updating information
+00:00:00.015007 DCon01   HostDnsMonitor: old information
+00:00:00.015009 DCon01     no server entries
+00:00:00.015010 DCon01     no domain set
+00:00:00.015011 DCon01     no search string entries
+00:00:00.015012 DCon01   HostDnsMonitor: new information
+00:00:00.015013 DCon01     server 1: 192.168.0.1
+00:00:00.015015 DCon01     server 2: fdb6:5da8:cb01:0:ca96:5aff:fe23:8068
+00:00:00.015016 DCon01     domain: home
+00:00:00.015017 DCon01     search string 1: home
+00:00:00.017873 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.018026 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.018124 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.019217 DCon01   VirtualBox: object created
+00:00:00.433414 DCon04   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:00.753128 DCon02   Saving settings file "/home/default/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.762835 DCon02   Finished saving settings file "/home/default/.config/VirtualBox/VirtualBox.xml"

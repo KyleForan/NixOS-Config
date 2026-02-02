@@ -1,0 +1,19 @@
+00:00:00.166453 VirtualBox GUI VM Selector Window 7.2.4 r170995 linux.amd64 (Oct 17 2025 09:07:46) release log
+00:00:00.166455 Log opened 2026-02-02T16:01:47.326531000Z
+00:00:00.166456 Build Type: release
+00:00:00.166459 OS Product: Linux
+00:00:00.166460 OS Release: 6.12.67
+00:00:00.166460 OS Version: #1-NixOS SMP PREEMPT_DYNAMIC Fri Jan 23 10:18:52 UTC 2026
+00:00:00.166485 DMI Product Name: Laptop 13 (Intel Core Ultra Series 1)
+00:00:00.166494 DMI Product Version: A2
+00:00:00.166500 Firmware type: UEFI
+00:00:00.168704 Secure Boot: Disabled
+00:00:00.168742 Host RAM: 31553MB (30.8GB) total, 29447MB (28.7GB) available
+00:00:00.168744 Executable: /nix/store/62f3xmxsqrizw4zf8sqfza79zkh14j9q-virtualbox-7.2.4/libexec/virtualbox/VirtualBox
+00:00:00.168745 Process ID: 12615
+00:00:00.168745 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.168771 Qt version: 6.10.1
+00:00:00.169409 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.173539 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.173549 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.494926 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 15x15 x 2226x1454
